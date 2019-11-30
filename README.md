@@ -15,4 +15,5 @@
 - [Máster en Análisis y Procesamiento del Lenguaje (UPV)](https://www.ehu.eus/es/web/master/master-analisis-procesamiento-lenguaje)
 - [Máster Universitario en Letras Digitales: Estudios Avanzados en Textualidades Electrónicas (UCM)](https://www.ucm.es/master-letrasdigitales/presentacion)
 - [Máster en Data Science (UAH)](https://www.uah.es/es/estudios/estudios-propios/posgrados-propios/Master-en-Data-Science/)
-- [Posgrado en Tecnologías de la Información para la Sociedad Digital: Humanidades y Ciencia](https://formacionpermanente.uned.es/tp_actividad/idactividad/10576)
+- [Posgrado en Tecnologías de la Información para la Sociedad Digital: Humanidades y Ciencia (UNED)](https://formacionpermanente.uned.es/tp_actividad/idactividad/10576)
+- [Máster de Ciencia Cognitiva y Lenguaje (UB)](http://www.ub.edu/estudis/es/mastersuniversitaris/ccil/presentacion)
