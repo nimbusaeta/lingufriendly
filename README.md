@@ -16,6 +16,7 @@ Los cuadernos Jupyter son ficheros con extensión .ipynb que pueden abrirse de m
         + Si lo que tienes instalado es Anaconda, ya cuentas con la aplicación de Jupyter Notebook y no tienes que instalar nada más.
     * Para usarla: cada vez que quieras abrir un cuaderno Jupyter, tienes que ejecutar primero en la terminal `jupyter notebook`. La primera vez tienes que seguir el paso que te indica (entrar en una URL que contiene tu contraseña); las demás veces puedes simplemente ignorar la terminal y usar los cuadernos en el navegador, donde se habrá abierto una pestaña con el directorio correspondiente a tu usuario en el ordenador. Ya solo tienes que navegar entre los directorios para abrir los cuadernos que quieras.
 - Google Colaboratory: si tienes una cuenta de Google, esta es la opción más fácil. Solo tienes que descargarte todos los archivos de la carpeta Cuadernos y añadirlos a tu Drive. Después, entra en un cuaderno, como entras en cualquier otro documento de Drive (haciendo doble click o seleccionando y pulsando Enter) y se te abrirá un diálogo como el de la siguiente imagen. Pulsa abajo en Colaboratory y se te abrirá abrir el cuaderno.
+<img src="pic-readme-1.png" style="width: 500px;"/>
 
 ## Contenidos
 En cada tema veremos una funcionalidad distinta de Python. Cada tema consta de 3 a 5 cuadernos o secciones en los que se trata alguna funcionalidad o concepto concreto. A continuación se enlaza el primer cuaderno de cada tema:
