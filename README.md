@@ -2,7 +2,7 @@
 ## Bienvenida
 ¡Hola! En este curso vamos a aprender a programar y, para ello, vamos a usar Python.
 
-Este curso corresponde a las asignaturas Introducción a la programación para Humanidades Digitales I y II del [máster en Tecnologías de la Información para la Sociedad Digital: Humanidades y Ciencia](https://formacionpermanente.uned.es/tp_actividad/idactividad/10576) de la UNED. Para contextualizar un poco de dónde sale todo esto, puedes leer [esta entrada](https://medium.com/@nimbusaeta/libero-mis-materiales-19ca6a1ce1a0).
+Este curso corresponde a las asignaturas Introducción a la programación para Humanidades Digitales I y II del [máster en Tecnologías de la Información para la Sociedad Digital: Humanidades y Ciencia](https://formacionpermanente.uned.es/tp_actividad/idactividad/10908) de la UNED. Para contextualizar un poco de dónde sale todo esto, puedes leer [esta entrada](https://medium.com/@nimbusaeta/libero-mis-materiales-19ca6a1ce1a0).
 
 En este README encontrarás algunas cuestiones prácticas.
 
