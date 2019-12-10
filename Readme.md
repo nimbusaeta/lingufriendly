@@ -9,7 +9,7 @@ En este README encontrarás algunas cuestiones prácticas.
 ## Dudas
 Durante el desarrollo del curso, al leer los materiales o intentar hacer los ejercicios, es natural que te surjan dudas. Yo te animo a que cualquier duda o sugerencia que tengas, por extraña que te parezca, la plantees en alguna comunidad, que están para eso. Por ejemplo, en [Lingwars](https://twitter.com/lingwars) estamos tanto humanistas como programadores dispuestos a ayudarte. En su Slack he creado un canal (#dudas-python) para hablar específicamente de este curso (puedes pedir acceso escribiendo a lingwars [arroba] gmail [punto] com). También tienes a [PyLadies](https://twitter.com/PyLadies_ES), que son expertas en Python.
 
-Asimismo, si cres que hay algún error, házmelo saber, para beneficio de todos :)
+Asimismo, si crees que hay algún error, házmelo saber, para beneficio de todos :)
 
 ## Contenidos
 En cada tema veremos una funcionalidad distinta de Python. Cada tema consta de 3 a 5 cuadernos o secciones en los que se trata alguna funcionalidad o concepto concreto. A continuación se enlaza el primer cuaderno de cada tema:
