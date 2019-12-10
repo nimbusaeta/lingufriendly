@@ -4,12 +4,20 @@
 
 Este curso corresponde a las asignaturas Introducción a la programación para Humanidades Digitales I y II del [máster en Tecnologías de la Información para la Sociedad Digital: Humanidades y Ciencia](https://formacionpermanente.uned.es/tp_actividad/idactividad/10908) de la UNED. Para contextualizar un poco de dónde sale todo esto, puedes leer [esta entrada](https://medium.com/@nimbusaeta/libero-mis-materiales-19ca6a1ce1a0).
 
-En este README encontrarás algunas cuestiones prácticas.
+En este README encontrarás algunas cuestiones prácticas:
 
-## Dudas
-Durante el desarrollo del curso, al leer los materiales o intentar hacer los ejercicios, es natural que te surjan dudas. Yo te animo a que cualquier duda o sugerencia que tengas, por extraña que te parezca, la plantees en alguna comunidad, que están para eso. Por ejemplo, en [Lingwars](https://twitter.com/lingwars) estamos tanto humanistas como programadores dispuestos a ayudarte. En su Slack he creado un canal (#dudas-python) para hablar específicamente de este curso (puedes pedir acceso escribiendo a lingwars [arroba] gmail [punto] com). También tienes a [PyLadies](https://twitter.com/PyLadies_ES), que son expertas en Python.
+- [Por qué un curso de programación para humanistas](#por-qué-un-curso-de-programación-para-humanistas)
+- [Contenidos](#contenidos)
+    * [Nomenclatura de los temas y ejercicios](#nomenclatura-de-los-temas-y-ejercicios)
+- [Cuadernos Jupyter](#cuadernos-jupyter)
+- [Dudas](#dudas)
 
-Asimismo, si crees que hay algún error, házmelo saber, para beneficio de todos :)
+## Por qué un curso de programación para humanistas
+Hoy en día cualquier persona puede sacarle un provecho tanto personal como profesional a la habilidad de programar. Los lenguajes de programación se han vuelto tan versátiles y están tan presentes en tantas profesiones que el desafío es más bien pensar en sus límites. El campo de las [humanidades digitales](https://es.wikipedia.org/wiki/Humanidades_digitales) no es una excepción y cada vez somos más los que desafiamos la división férrea entre letras y ciencias.
+
+Ahora bien, ¿por qué es necesario un curso _especialmente_ dedicado a humanistas? Porque los que hay suelen partir de que los alumnos ya saben programar en otros lenguajes o que si se están acercando a la programación es porque les interesan las matemáticas, la lógica, etc. Y ya hay muchos más perfiles distintos a ese que se acercan a la programación y sienten rechazo ante unos materiales que no empatiza con ellos. En realidad, ni siquiera es rechazo, es sensación de que eso no es para ellos, que no encajan ahí.
+
+Por eso, este curso contextualiza cada término, explica cada concepto desde cero, pone ejemplos y ejercicios con literatura, hace hincapié en los métodos de las strings, se adelanta a posibles errores comunes y se adentra un poquito en el procesamiento del lenguaje natural con NLTK.
 
 ## Contenidos
 En cada tema veremos una funcionalidad distinta de Python. Cada tema consta de 3 a 5 cuadernos o secciones en los que se trata alguna funcionalidad o concepto concreto. A continuación se enlaza el primer cuaderno de cada tema:
@@ -49,3 +57,9 @@ Los cuadernos Jupyter son ficheros con extensión .ipynb que pueden abrirse de m
     * Para usarla: cada vez que quieras abrir un cuaderno Jupyter, tienes que ejecutar primero en la terminal `jupyter notebook`. La primera vez tienes que seguir el paso que te indica (entrar en una URL que contiene tu contraseña); las demás veces puedes simplemente ignorar la terminal y usar los cuadernos en el navegador, donde se habrá abierto una pestaña con el directorio correspondiente a tu usuario en el ordenador. Ya solo tienes que navegar entre los directorios para abrir los cuadernos que quieras.
 - Google Colaboratory: si tienes una cuenta de Google, esta es la opción más fácil. Solo tienes que descargarte todos los archivos de la carpeta Cuadernos y añadirlos a tu Drive. Después, entra en un cuaderno, como entras en cualquier otro documento de Drive (haciendo doble click o seleccionando y pulsando Enter) y se te abrirá un diálogo como el de la siguiente imagen. Pulsa abajo en Colaboratory y se te abrirá abrir el cuaderno.
 <img src="pic-readme-1.png" style="width: 500px;"/>
+
+## Dudas
+Durante el desarrollo del curso, al leer los materiales o intentar hacer los ejercicios, es natural que te surjan dudas. Yo te animo a que cualquier duda o sugerencia que tengas, por extraña que te parezca, la plantees en alguna comunidad, que están para eso. Por ejemplo, en [Lingwars](https://twitter.com/lingwars) estamos tanto humanistas como programadores dispuestos a ayudarte. En su Slack he creado un canal (#dudas-python) para hablar específicamente de este curso (puedes pedir acceso escribiendo a lingwars [arroba] gmail [punto] com). También tienes a [PyLadies](https://twitter.com/PyLadies_ES), que son expertas en Python.
+
+Asimismo, si crees que hay algún error, crea un issue o házmelo saber de alguna forma, para beneficio de todos :)
+
