@@ -6,17 +6,10 @@ Este curso corresponde a las asignaturas Introducción a la programación para H
 
 En este README encontrarás algunas cuestiones prácticas.
 
-## Cuadernos Jupyter
-Para programar normalmente se necesita tener instalado un entorno de programación. Te animo a instalar Python y usarlo en la terminal, pero si por cualquier motivo (problemas para instalarlo, o quizá todavía no sabes si vas a programar mucho, etc.) no quieres hacerlo ahora, hay un plan B: echar mano de los cuadernos Jupyter (o _Jupyter notebooks_), un tipo de archivos que permiten mezclar texto con código. Este tipo de cuadernos es el formato en el que se encuentran los materiales del curso, para que usarlos sea lo más fácil para ti, tanto si instalas Python como si no. Ya verás que usarlos es muy intuitivo.
+## Dudas
+Durante el desarrollo del curso, al leer los materiales o intentar hacer los ejercicios, es natural que te surjan dudas. Yo te animo a que cualquier duda o sugerencia que tengas, por extraña que te parezca, la plantees en alguna comunidad, que están para eso. Por ejemplo, en [Lingwars](https://twitter.com/lingwars) estamos tanto humanistas como programadores dispuestos a ayudarte. En su Slack he creado un canal (#dudas-python) para hablar específicamente de este curso (puedes pedir acceso escribiendo a lingwars [arroba] gmail [punto] com). También tienes a [PyLadies](https://twitter.com/PyLadies_ES), que son expertas en Python.
 
-Los cuadernos Jupyter son ficheros con extensión .ipynb que pueden abrirse de múltiples maneras:
-- Aplicación de Jupyter Notebook.
-    * Para instalarla:
-        + Sigue los [pasos para instalar Python](Cuadernos/0102.ipynb) y después escribe en la terminal `pip install jupyterlab` para instalar la aplicación.
-        + Si lo que tienes instalado es Anaconda, ya cuentas con la aplicación de Jupyter Notebook y no tienes que instalar nada más.
-    * Para usarla: cada vez que quieras abrir un cuaderno Jupyter, tienes que ejecutar primero en la terminal `jupyter notebook`. La primera vez tienes que seguir el paso que te indica (entrar en una URL que contiene tu contraseña); las demás veces puedes simplemente ignorar la terminal y usar los cuadernos en el navegador, donde se habrá abierto una pestaña con el directorio correspondiente a tu usuario en el ordenador. Ya solo tienes que navegar entre los directorios para abrir los cuadernos que quieras.
-- Google Colaboratory: si tienes una cuenta de Google, esta es la opción más fácil. Solo tienes que descargarte todos los archivos de la carpeta Cuadernos y añadirlos a tu Drive. Después, entra en un cuaderno, como entras en cualquier otro documento de Drive (haciendo doble click o seleccionando y pulsando Enter) y se te abrirá un diálogo como el de la siguiente imagen. Pulsa abajo en Colaboratory y se te abrirá abrir el cuaderno.
-<img src="pic-readme-1.png" style="width: 500px;"/>
+Asimismo, si cres que hay algún error, házmelo saber, para beneficio de todos :)
 
 ## Contenidos
 En cada tema veremos una funcionalidad distinta de Python. Cada tema consta de 3 a 5 cuadernos o secciones en los que se trata alguna funcionalidad o concepto concreto. A continuación se enlaza el primer cuaderno de cada tema:
@@ -44,3 +37,15 @@ Además, los ejercicios que hay al final de cada cuaderno llevan la siguiente no
 - 010201 - tema 1, cuaderno 2, ejercicio 1
 - 020101 - tema 2, cuaderno 1, ejercicio 1
 - Etc.
+
+## Cuadernos Jupyter
+Para programar normalmente se necesita tener instalado un entorno de programación. Te animo a instalar Python y usarlo en la terminal, pero si por cualquier motivo (problemas para instalarlo, o quizá todavía no sabes si vas a programar mucho, etc.) no quieres hacerlo ahora, hay un plan B: echar mano de los cuadernos Jupyter (o _Jupyter notebooks_), un tipo de archivos que permiten mezclar texto con código. Este tipo de cuadernos es el formato en el que se encuentran los materiales del curso, para que usarlos sea lo más fácil para ti, tanto si instalas Python como si no. Ya verás que usarlos es muy intuitivo.
+
+Los cuadernos Jupyter son ficheros con extensión .ipynb que pueden abrirse de múltiples maneras:
+- Aplicación de Jupyter Notebook.
+    * Para instalarla:
+        + Sigue los [pasos para instalar Python](Cuadernos/0102.ipynb) y después escribe en la terminal `pip install jupyterlab` para instalar la aplicación.
+        + Si lo que tienes instalado es Anaconda, ya cuentas con la aplicación de Jupyter Notebook y no tienes que instalar nada más.
+    * Para usarla: cada vez que quieras abrir un cuaderno Jupyter, tienes que ejecutar primero en la terminal `jupyter notebook`. La primera vez tienes que seguir el paso que te indica (entrar en una URL que contiene tu contraseña); las demás veces puedes simplemente ignorar la terminal y usar los cuadernos en el navegador, donde se habrá abierto una pestaña con el directorio correspondiente a tu usuario en el ordenador. Ya solo tienes que navegar entre los directorios para abrir los cuadernos que quieras.
+- Google Colaboratory: si tienes una cuenta de Google, esta es la opción más fácil. Solo tienes que descargarte todos los archivos de la carpeta Cuadernos y añadirlos a tu Drive. Después, entra en un cuaderno, como entras en cualquier otro documento de Drive (haciendo doble click o seleccionando y pulsando Enter) y se te abrirá un diálogo como el de la siguiente imagen. Pulsa abajo en Colaboratory y se te abrirá abrir el cuaderno.
+<img src="pic-readme-1.png" style="width: 500px;"/>
